@@ -16,7 +16,7 @@ image_preview = "dataninja.png"
 tags = ["rstats", "www"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "www.dataninja.fi"
+external_link = "http://dataninja.fi"
 
 # Does the project detail page use math formatting?
 math = false
