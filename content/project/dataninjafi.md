@@ -6,7 +6,7 @@ date = "2017-07-03"
 title = "Data Ninja site"
 
 # Project summary to display on homepage.
-summary = "Site presenting powerful open source tools to manage data and analytics"
+summary = "A site presenting powerful open source tools to manage data and analytics"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "dataninja.png"

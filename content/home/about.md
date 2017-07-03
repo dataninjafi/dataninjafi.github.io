@@ -22,4 +22,4 @@ weight = 1
 
 # Biography
 
-Risto Kaartinen works as a worklife speacilist at pension insurance authority Keva. His mission (and his job) is to make people and organizations healthier by means of health management and analytics. Risto loves #rstats, open source, analytics, politics and triathlon.
+Risto Kaartinen works as a worklife speacilist at the pension insurance authority Keva. His mission (and his job) is to make people and organizations healthier by means of health management and analytics. Risto loves #rstats, open source, analytics, politics and triathlon.
