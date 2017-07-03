@@ -1,4 +1,3 @@
-HUGO_VERSION = 0.20
 baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
 title = "Academic"
 copyright = "&copy; 2016 Your Name"
