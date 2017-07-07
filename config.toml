@@ -20,6 +20,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Risto Kaartinen"
   role = "Worklife Specialist"
+  dateForm = "2.1.2006"
   organization = "Keva"
   organization_url = "www.keva.fi"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
